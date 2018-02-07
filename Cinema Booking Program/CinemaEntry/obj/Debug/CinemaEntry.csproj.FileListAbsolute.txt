@@ -1,0 +1,6 @@
+C:\Users\Fierce\Desktop\JosephPeron GitHub\Portfolio\530820\Lab3\CinemaEntry\bin\Debug\CinemaEntry.exe.config
+C:\Users\Fierce\Desktop\JosephPeron GitHub\Portfolio\530820\Lab3\CinemaEntry\bin\Debug\CinemaEntry.exe
+C:\Users\Fierce\Desktop\JosephPeron GitHub\Portfolio\530820\Lab3\CinemaEntry\bin\Debug\CinemaEntry.pdb
+C:\Users\Fierce\Desktop\JosephPeron GitHub\Portfolio\530820\Lab3\CinemaEntry\obj\Debug\CinemaEntry.csprojResolveAssemblyReference.cache
+C:\Users\Fierce\Desktop\JosephPeron GitHub\Portfolio\530820\Lab3\CinemaEntry\obj\Debug\CinemaEntry.exe
+C:\Users\Fierce\Desktop\JosephPeron GitHub\Portfolio\530820\Lab3\CinemaEntry\obj\Debug\CinemaEntry.pdb

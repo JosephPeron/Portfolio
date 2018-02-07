@@ -1,0 +1,12 @@
+C:\Users\Fierce\Desktop\New folder (2)\lab\bin\lab.dll.config
+C:\Users\Fierce\Desktop\New folder (2)\lab\bin\lab.dll
+C:\Users\Fierce\Desktop\New folder (2)\lab\bin\lab.pdb
+C:\Users\Fierce\Desktop\New folder (2)\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+C:\Users\Fierce\Desktop\New folder (2)\lab\obj\Debug\lab.dll
+C:\Users\Fierce\Desktop\New folder (2)\lab\obj\Debug\lab.pdb
+C:\Users\Fierce\Desktop\3TING\lab\bin\lab.dll.config
+C:\Users\Fierce\Desktop\3TING\lab\bin\lab.dll
+C:\Users\Fierce\Desktop\3TING\lab\bin\lab.pdb
+C:\Users\Fierce\Desktop\3TING\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+C:\Users\Fierce\Desktop\3TING\lab\obj\Debug\lab.dll
+C:\Users\Fierce\Desktop\3TING\lab\obj\Debug\lab.pdb

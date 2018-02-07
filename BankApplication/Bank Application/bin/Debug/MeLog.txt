@@ -1,0 +1,2 @@
+Log0Withdrew £1323
+Log1New balance is : £98677

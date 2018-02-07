@@ -1,0 +1,6 @@
+C:\Users\Fierce\Desktop\Uni Work Y2 S1\08145\acw\lab\bin\lab.dll.config
+C:\Users\Fierce\Desktop\Uni Work Y2 S1\08145\acw\lab\bin\lab.dll
+C:\Users\Fierce\Desktop\Uni Work Y2 S1\08145\acw\lab\bin\lab.pdb
+C:\Users\Fierce\Desktop\Uni Work Y2 S1\08145\acw\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+C:\Users\Fierce\Desktop\Uni Work Y2 S1\08145\acw\lab\obj\Debug\lab.dll
+C:\Users\Fierce\Desktop\Uni Work Y2 S1\08145\acw\lab\obj\Debug\lab.pdb

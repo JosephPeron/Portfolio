@@ -1,0 +1,7 @@
+C:\Users\Fierce\Desktop\Uni Work S2\530820\Bank Application\bin\Debug\Bank Application.exe.config
+C:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\Bank Application\bin\Debug\Bank Application.exe.config
+C:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\Bank Application\bin\Debug\Bank Application.exe
+C:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\Bank Application\bin\Debug\Bank Application.pdb
+C:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\Bank Application\obj\Debug\Bank Application.csprojResolveAssemblyReference.cache
+C:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\Bank Application\obj\Debug\Bank Application.exe
+C:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\Bank Application\obj\Debug\Bank Application.pdb
