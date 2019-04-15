@@ -1,0 +1,30 @@
+Main:
+Logic myLogic = new Logic();
+	if no args:
+		UI(logic)
+	if args:
+		console(logic)
+		
+UI:
+	set up shit
+	allow input
+	button press
+		get data from form
+		pass data into logic REFERENCE
+		string output = myLogic.Run()
+		listbox.add(output)
+		
+Console:
+	runConsole()
+		reads args
+		sets data of logic
+		string output = myLogic.run()
+		console.writeLine(output)
+		
+Logic:
+	run - returns string "output"
+		uses data to send packet
+		listens for packet
+		parse packet
+		work out print
+		return print as string

@@ -1,0 +1,10 @@
+server ui:
+
+manually add to dictionary
+
+start/ stop server buttons
+
+listbox to display interactions 
+debug check
+change timeout
+lookup listbox

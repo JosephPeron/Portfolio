@@ -1,0 +1,16 @@
+G:\08140 Networking and UI Design\Labs\MyClient\MyClient\bin\Debug\MyClient.exe.config
+G:\08140 Networking and UI Design\Labs\MyClient\MyClient\bin\Debug\MyClient.exe
+G:\08140 Networking and UI Design\Labs\MyClient\MyClient\bin\Debug\MyClient.pdb
+G:\08140 Networking and UI Design\Labs\MyClient\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+G:\08140 Networking and UI Design\Labs\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+G:\08140 Networking and UI Design\Labs\MyClient\MyClient\obj\Debug\MyClient.exe
+G:\08140 Networking and UI Design\Labs\MyClient\MyClient\obj\Debug\MyClient.pdb
+C:\Temp\Labs\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Temp\Labs\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Temp\Labs\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Temp\Labs\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Temp\Labs\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Temp\Labs\MyClient\MyClient\obj\Debug\MyClient.pdb
+C:\Users\Fierce\Desktop\Uni Work Y2 S2\Networking\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\Fierce\Desktop\Uni Work Y2 S2\Networking\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\Fierce\Desktop\Uni Work Y2 S2\Networking\MyClient\MyClient\obj\Debug\MyClient.pdb

@@ -1,0 +1,16 @@
+Run:
+	string packet = structureRequest();
+	sw.flush(packet);
+	string return = sr.readToEnd();
+	string output = parseReturn(return)
+	return output;
+	
+	
+structureRequest()
+	string packet = structureWhois()
+	return packet;
+	
+	
+structureWhois(){
+	uses stored data to make a packet of whois version
+	return packet

@@ -1,0 +1,12 @@
+﻿  Cell.cpp
+c:\users\fierce\desktop\acw_wordsearch\acw_wordsearch\cell.cpp(16): warning C4101: 'e': unreferenced local variable
+  Dictionary.cpp
+c:\users\fierce\desktop\acw_wordsearch\acw_wordsearch\dictionary.cpp(17): warning C4101: 'e': unreferenced local variable
+  Main.cpp
+  WordSearch.cpp
+  Generating Code...
+c:\users\fierce\desktop\acw_wordsearch\acw_wordsearch\wordsearch.cpp(45): warning C4715: 'WordSearch::operator=': not all control paths return a value
+c:\users\fierce\desktop\acw_wordsearch\acw_wordsearch\dictionary.cpp(33): warning C4715: 'Dictionary::operator=': not all control paths return a value
+c:\users\fierce\desktop\acw_wordsearch\acw_wordsearch\dictionary.cpp(67): warning C4715: 'Dictionary::ContinueSearch': not all control paths return a value
+c:\users\fierce\desktop\acw_wordsearch\acw_wordsearch\cell.cpp(32): warning C4715: 'Cell::operator=': not all control paths return a value
+  ACW_WordSearch.vcxproj -> C:\Users\Fierce\Desktop\ACW_WordSearch\x64\Debug\ACW_WordSearch.exe
