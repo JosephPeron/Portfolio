@@ -1,0 +1,7 @@
+C:\Users\jp-29\Desktop\SVN\Distributed Systems\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe.config
+C:\Users\jp-29\Desktop\SVN\Distributed Systems\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe
+C:\Users\jp-29\Desktop\SVN\Distributed Systems\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.pdb
+C:\Users\jp-29\Desktop\SVN\Distributed Systems\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csprojAssemblyReference.cache
+C:\Users\jp-29\Desktop\SVN\Distributed Systems\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csproj.CoreCompileInputs.cache
+C:\Users\jp-29\Desktop\SVN\Distributed Systems\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.exe
+C:\Users\jp-29\Desktop\SVN\Distributed Systems\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.pdb
