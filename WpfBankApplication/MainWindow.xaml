@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfBankApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfBankApplication"
+        mc:Ignorable="d"
+        Title="Bank Application" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="194*"/>
+            <ColumnDefinition Width="323*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle x:Name="anumrectangle" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="85" Margin="10,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="497" Grid.ColumnSpan="2"/>
+
+
+        <Rectangle x:Name="an_abrectangle" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="125" Margin="10,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="497" Grid.ColumnSpan="2"/>
+
+
+        <Rectangle x:Name="aomrectangle" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="79" Margin="10,230,0,0" Stroke="Black" VerticalAlignment="Top" Width="497" Grid.ColumnSpan="2"/>
+
+
+        <TextBox x:Name="accountbalance" HorizontalAlignment="Left" Height="23" Margin="53,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.501,1.242"/>
+        <TextBox x:Name="accountname" HorizontalAlignment="Left" Height="23" Margin="53,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button1" Content="Create Account" HorizontalAlignment="Left" Margin="30,37,0,0" VerticalAlignment="Top" Width="90" Click="button1_Click" Grid.Column="1" Height="42"/>
+        <Label x:Name="accountnamelabel" Content="Account Name" HorizontalAlignment="Left" Height="33" Margin="54,115,0,0" VerticalAlignment="Top" Width="104"/>
+        <Label x:Name="accountbalancelabel" Content="Account Balance" HorizontalAlignment="Left" Margin="54,160,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="accountnumberlabel" Content="Account Number" HorizontalAlignment="Left" Margin="55,32,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="accountnumber" HorizontalAlignment="Left" Height="23" Margin="54,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Load Account" HorizontalAlignment="Left" Margin="175,37,0,0" VerticalAlignment="Top" Width="89" Grid.Column="1" Height="42"/>
+        <Button x:Name="button2" Content="Withdraw" HorizontalAlignment="Left" Margin="30,241,0,0" VerticalAlignment="Top" Width="120" Grid.Column="1" Height="60"/>
+        <Button x:Name="button3" Content="Deposit" HorizontalAlignment="Left" Margin="155,241,0,0" VerticalAlignment="Top" Width="120" Grid.Column="1" Height="60"/>
+        <TextBox x:Name="amountofmoney" HorizontalAlignment="Left" Height="23" Margin="53,263,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="amountofmoneylabel" Content="Amount of Money" HorizontalAlignment="Left" Margin="54,241,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>

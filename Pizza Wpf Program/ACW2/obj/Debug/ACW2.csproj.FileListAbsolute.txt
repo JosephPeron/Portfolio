@@ -1,0 +1,49 @@
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\bin\Debug\ACW2.exe.config
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\bin\Debug\inventory.txt
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\bin\Debug\menu.txt
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\bin\Debug\ACW2.exe
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\bin\Debug\ACW2.pdb
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\ACW2.csprojResolveAssemblyReference.cache
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.g.cs
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\FoodMenuWindow.g.cs
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\InventoryWindow.g.cs
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\MainWindow.g.cs
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\OrderWindow.g.cs
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\App.g.cs
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.cache
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.lref
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.baml
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\FoodMenuWindow.baml
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\InventoryWindow.baml
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\MainWindow.baml
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\OrderWindow.baml
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\ACW2.g.resources
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\ACW2.Properties.Resources.resources
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\ACW2.csproj.GenerateResource.Cache
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\ACW2.exe
+C:\Users\Fierce\Desktop\Uni Work S2\530820\ACW2\ACW2\obj\Debug\ACW2.pdb
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\bin\Debug\inventory.txt
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\bin\Debug\menu.txt
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\bin\Debug\ACW2.exe.config
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\bin\Debug\ACW2.exe
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\bin\Debug\ACW2.pdb
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2.csprojAssemblyReference.cache
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.g.cs
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\FoodMenuWindow.g.cs
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\InventoryWindow.g.cs
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\MainWindow.g.cs
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\OrderWindow.g.cs
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\App.g.cs
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.cache
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.lref
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.baml
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\FoodMenuWindow.baml
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\InventoryWindow.baml
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\MainWindow.baml
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\OrderWindow.baml
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2.g.resources
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2.Properties.Resources.resources
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2.csproj.GenerateResource.cache
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2.csproj.CoreCompileInputs.cache
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2.exe
+D:\Users\Fierce\Desktop\Uni Work Y1 S2\530820\ACW2\ACW2\obj\Debug\ACW2.pdb
